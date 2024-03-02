@@ -1,0 +1,14 @@
+/home/nashtech/Desktop/New Folder/Assignments/stackoverflow/stackoverflowapp/bin/Debug/net8.0/stackoverflowapp
+/home/nashtech/Desktop/New Folder/Assignments/stackoverflow/stackoverflowapp/bin/Debug/net8.0/stackoverflowapp.deps.json
+/home/nashtech/Desktop/New Folder/Assignments/stackoverflow/stackoverflowapp/bin/Debug/net8.0/stackoverflowapp.runtimeconfig.json
+/home/nashtech/Desktop/New Folder/Assignments/stackoverflow/stackoverflowapp/bin/Debug/net8.0/stackoverflowapp.dll
+/home/nashtech/Desktop/New Folder/Assignments/stackoverflow/stackoverflowapp/bin/Debug/net8.0/stackoverflowapp.pdb
+/home/nashtech/Desktop/New Folder/Assignments/stackoverflow/stackoverflowapp/obj/Debug/net8.0/stackoverflowapp.GeneratedMSBuildEditorConfig.editorconfig
+/home/nashtech/Desktop/New Folder/Assignments/stackoverflow/stackoverflowapp/obj/Debug/net8.0/stackoverflowapp.AssemblyInfoInputs.cache
+/home/nashtech/Desktop/New Folder/Assignments/stackoverflow/stackoverflowapp/obj/Debug/net8.0/stackoverflowapp.AssemblyInfo.cs
+/home/nashtech/Desktop/New Folder/Assignments/stackoverflow/stackoverflowapp/obj/Debug/net8.0/stackoverflowapp.csproj.CoreCompileInputs.cache
+/home/nashtech/Desktop/New Folder/Assignments/stackoverflow/stackoverflowapp/obj/Debug/net8.0/stackoverflowapp.dll
+/home/nashtech/Desktop/New Folder/Assignments/stackoverflow/stackoverflowapp/obj/Debug/net8.0/refint/stackoverflowapp.dll
+/home/nashtech/Desktop/New Folder/Assignments/stackoverflow/stackoverflowapp/obj/Debug/net8.0/stackoverflowapp.pdb
+/home/nashtech/Desktop/New Folder/Assignments/stackoverflow/stackoverflowapp/obj/Debug/net8.0/stackoverflowapp.genruntimeconfig.cache
+/home/nashtech/Desktop/New Folder/Assignments/stackoverflow/stackoverflowapp/obj/Debug/net8.0/ref/stackoverflowapp.dll

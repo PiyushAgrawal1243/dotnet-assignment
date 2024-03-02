@@ -1,0 +1,14 @@
+/home/nashtech/Desktop/New Folder/Assignments/facebook/facebookapp/bin/Debug/net8.0/facebookapp
+/home/nashtech/Desktop/New Folder/Assignments/facebook/facebookapp/bin/Debug/net8.0/facebookapp.deps.json
+/home/nashtech/Desktop/New Folder/Assignments/facebook/facebookapp/bin/Debug/net8.0/facebookapp.runtimeconfig.json
+/home/nashtech/Desktop/New Folder/Assignments/facebook/facebookapp/bin/Debug/net8.0/facebookapp.dll
+/home/nashtech/Desktop/New Folder/Assignments/facebook/facebookapp/bin/Debug/net8.0/facebookapp.pdb
+/home/nashtech/Desktop/New Folder/Assignments/facebook/facebookapp/obj/Debug/net8.0/facebookapp.GeneratedMSBuildEditorConfig.editorconfig
+/home/nashtech/Desktop/New Folder/Assignments/facebook/facebookapp/obj/Debug/net8.0/facebookapp.AssemblyInfoInputs.cache
+/home/nashtech/Desktop/New Folder/Assignments/facebook/facebookapp/obj/Debug/net8.0/facebookapp.AssemblyInfo.cs
+/home/nashtech/Desktop/New Folder/Assignments/facebook/facebookapp/obj/Debug/net8.0/facebookapp.csproj.CoreCompileInputs.cache
+/home/nashtech/Desktop/New Folder/Assignments/facebook/facebookapp/obj/Debug/net8.0/facebookapp.dll
+/home/nashtech/Desktop/New Folder/Assignments/facebook/facebookapp/obj/Debug/net8.0/refint/facebookapp.dll
+/home/nashtech/Desktop/New Folder/Assignments/facebook/facebookapp/obj/Debug/net8.0/facebookapp.pdb
+/home/nashtech/Desktop/New Folder/Assignments/facebook/facebookapp/obj/Debug/net8.0/facebookapp.genruntimeconfig.cache
+/home/nashtech/Desktop/New Folder/Assignments/facebook/facebookapp/obj/Debug/net8.0/ref/facebookapp.dll

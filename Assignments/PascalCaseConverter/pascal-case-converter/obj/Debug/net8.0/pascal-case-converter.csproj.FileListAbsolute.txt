@@ -1,0 +1,14 @@
+/home/nashtech/Desktop/New Folder/Assignments/PascalCaseConverter/pascal-case-converter/bin/Debug/net8.0/pascal-case-converter
+/home/nashtech/Desktop/New Folder/Assignments/PascalCaseConverter/pascal-case-converter/bin/Debug/net8.0/pascal-case-converter.deps.json
+/home/nashtech/Desktop/New Folder/Assignments/PascalCaseConverter/pascal-case-converter/bin/Debug/net8.0/pascal-case-converter.runtimeconfig.json
+/home/nashtech/Desktop/New Folder/Assignments/PascalCaseConverter/pascal-case-converter/bin/Debug/net8.0/pascal-case-converter.dll
+/home/nashtech/Desktop/New Folder/Assignments/PascalCaseConverter/pascal-case-converter/bin/Debug/net8.0/pascal-case-converter.pdb
+/home/nashtech/Desktop/New Folder/Assignments/PascalCaseConverter/pascal-case-converter/obj/Debug/net8.0/pascal-case-converter.GeneratedMSBuildEditorConfig.editorconfig
+/home/nashtech/Desktop/New Folder/Assignments/PascalCaseConverter/pascal-case-converter/obj/Debug/net8.0/pascal-case-converter.AssemblyInfoInputs.cache
+/home/nashtech/Desktop/New Folder/Assignments/PascalCaseConverter/pascal-case-converter/obj/Debug/net8.0/pascal-case-converter.AssemblyInfo.cs
+/home/nashtech/Desktop/New Folder/Assignments/PascalCaseConverter/pascal-case-converter/obj/Debug/net8.0/pascal-case-converter.csproj.CoreCompileInputs.cache
+/home/nashtech/Desktop/New Folder/Assignments/PascalCaseConverter/pascal-case-converter/obj/Debug/net8.0/pascal-case-converter.dll
+/home/nashtech/Desktop/New Folder/Assignments/PascalCaseConverter/pascal-case-converter/obj/Debug/net8.0/refint/pascal-case-converter.dll
+/home/nashtech/Desktop/New Folder/Assignments/PascalCaseConverter/pascal-case-converter/obj/Debug/net8.0/pascal-case-converter.pdb
+/home/nashtech/Desktop/New Folder/Assignments/PascalCaseConverter/pascal-case-converter/obj/Debug/net8.0/pascal-case-converter.genruntimeconfig.cache
+/home/nashtech/Desktop/New Folder/Assignments/PascalCaseConverter/pascal-case-converter/obj/Debug/net8.0/ref/pascal-case-converter.dll

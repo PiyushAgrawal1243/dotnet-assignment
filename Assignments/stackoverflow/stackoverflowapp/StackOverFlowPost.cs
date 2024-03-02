@@ -1,4 +1,5 @@
-public class StackOverflowPost
+namespace StackOverFlow{
+public class StackOverFlow
 {
     private int _voteCount;
 
@@ -11,7 +12,7 @@ public class StackOverflowPost
         get { return _voteCount; }
     }
 
-    public StackOverflowPost(string title, string description)
+    public StackOverFlow(string title, string description)
     {
         Title = title;
         Description = description;
@@ -28,4 +29,6 @@ public class StackOverflowPost
     {
         _voteCount--;
     }
+}
+
 }

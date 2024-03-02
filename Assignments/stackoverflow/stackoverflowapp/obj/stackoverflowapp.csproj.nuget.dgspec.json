@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/nashtech/Desktop/New Folder/Assignments/stackoverflow/stackoverflowapp/stackoverflowapp.csproj": {}
+    "/home/nashtech/Desktop/New Folder/dotnet-assignment/Assignments/stackoverflow/stackoverflowapp/stackoverflowapp.csproj": {}
   },
   "projects": {
-    "/home/nashtech/Desktop/New Folder/Assignments/stackoverflow/stackoverflowapp/stackoverflowapp.csproj": {
+    "/home/nashtech/Desktop/New Folder/dotnet-assignment/Assignments/stackoverflow/stackoverflowapp/stackoverflowapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nashtech/Desktop/New Folder/Assignments/stackoverflow/stackoverflowapp/stackoverflowapp.csproj",
+        "projectUniqueName": "/home/nashtech/Desktop/New Folder/dotnet-assignment/Assignments/stackoverflow/stackoverflowapp/stackoverflowapp.csproj",
         "projectName": "stackoverflowapp",
-        "projectPath": "/home/nashtech/Desktop/New Folder/Assignments/stackoverflow/stackoverflowapp/stackoverflowapp.csproj",
+        "projectPath": "/home/nashtech/Desktop/New Folder/dotnet-assignment/Assignments/stackoverflow/stackoverflowapp/stackoverflowapp.csproj",
         "packagesPath": "/home/nashtech/.nuget/packages/",
-        "outputPath": "/home/nashtech/Desktop/New Folder/Assignments/stackoverflow/stackoverflowapp/obj/",
+        "outputPath": "/home/nashtech/Desktop/New Folder/dotnet-assignment/Assignments/stackoverflow/stackoverflowapp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nashtech/.nuget/NuGet/NuGet.Config"

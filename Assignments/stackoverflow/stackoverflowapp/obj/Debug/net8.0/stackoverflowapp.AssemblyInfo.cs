@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("stackoverflowapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35c50c19bb6dfb2f5061e8f17c1242f0ada5bc31")]
 [assembly: System.Reflection.AssemblyProductAttribute("stackoverflowapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("stackoverflowapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

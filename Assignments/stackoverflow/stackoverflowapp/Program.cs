@@ -1,13 +1,14 @@
 ﻿
 using System;
 
-namespace stackoverflowapp
-{
+
+namespace StackOverFlow {
+
 class Program
 {
     static void Main(string[] args)
     {
-        StackOverflowPost post = new StackOverflowPost("Stackoverflow Post", "This is a post about stackoverflow.");
+        StackOverFlow post = new StackOverFlow("Stackoverflow Post", "This is a post about stackoverflow.");
 
         post.UpVote();
         post.UpVote();
@@ -19,5 +20,7 @@ class Program
         Console.WriteLine($"Vote Count: {post.VoteCount}");
     }
 }
+
+
 
 }
